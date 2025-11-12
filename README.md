@@ -40,10 +40,10 @@ The **full source code is private**, but this repository demonstrates the projec
 ```bash
 # Install dependencies
 npm install
-
+Email: sales@zylos.us
 # Start dev server
 npm run dev
-
+sales@zylos.us to co
 # Build production
 npm run build
 
