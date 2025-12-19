@@ -36,7 +36,7 @@ The **full source code is private**, but this repository demonstrates the projec
 
 
 *(For reference, full code is private)*
-
+*LINK IN BIO TO GET IN CONTACT*
 ```bash
 # Install dependencies
 npm install
