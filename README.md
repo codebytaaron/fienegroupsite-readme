@@ -1,4 +1,3 @@
-# fienegroup-site
 # Fiene Group Site Showcase
 
 **Built by Teddy (codebytaaron)**
